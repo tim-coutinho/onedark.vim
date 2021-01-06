@@ -14,13 +14,13 @@ let s:colors = {
       \ "white": get(s:overrides, "white", { "gui": "#B5BAC7", "cterm": "145", "cterm16": "7" }),
       \ "black": get(s:overrides, "black", { "gui": "#2D323C", "cterm": "235", "cterm16": "0" }),
       \ "visual_black": get(s:overrides, "visual_black", { "gui": "NONE", "cterm": "NONE", "cterm16": "0" }),
-      \ "comment_grey": get(s:overrides, "comment_grey", { "gui": "#5C6370", "cterm": "59", "cterm16": "15" }),
-      \ "gutter_fg_grey": get(s:overrides, "gutter_fg_grey", { "gui": "#565c6f", "cterm": "238", "cterm16": "15" }),
-      \ "cursor_grey": get(s:overrides, "cursor_grey", { "gui": "#2C323C", "cterm": "236", "cterm16": "8" }),
+      \ "comment_grey": get(s:overrides, "comment_grey", { "gui": "#686E7C", "cterm": "59", "cterm16": "15" }),
+      \ "gutter_fg_grey": get(s:overrides, "gutter_fg_grey", { "gui": "#565C6F", "cterm": "238", "cterm16": "15" }),
+      \ "cursor_grey": get(s:overrides, "cursor_grey", { "gui": "#333945", "cterm": "236", "cterm16": "8" }),
       \ "visual_grey": get(s:overrides, "visual_grey", { "gui": "#6E738E", "cterm": "237", "cterm16": "15" }),
       \ "menu_grey": get(s:overrides, "menu_grey", { "gui": "#6E738E", "cterm": "237", "cterm16": "8" }),
-      \ "special_grey": get(s:overrides, "special_grey", { "gui": "#656f7e", "cterm": "238", "cterm16": "15" }),
-      \ "vertsplit": get(s:overrides, "vertsplit", { "gui": "#292b38", "cterm": "59", "cterm16": "15" }),
+      \ "special_grey": get(s:overrides, "special_grey", { "gui": "#656f7E", "cterm": "238", "cterm16": "15" }),
+      \ "vertsplit": get(s:overrides, "vertsplit", { "gui": "#292B38", "cterm": "59", "cterm16": "15" }),
       \}
 
 function! onedark#GetColors()
