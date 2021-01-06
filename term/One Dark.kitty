@@ -10,11 +10,11 @@ selection_background     #b5bac7
 
 # Black
 color0                   #5c6370
-color8                   #4b5263
+color8                   #828da4
 
 # Red
 color1                   #dc777f
-color9                   #be5046
+color9                   #be5a4c
 
 # Green
 color2                   #a6ca80
@@ -22,7 +22,7 @@ color10                  #a6ca80
 
 # Yellow
 color3                   #e5c881
-color11                  #d19a66
+color11                  #d2a46c
 
 # Blue
 color4                   #78b8f4
@@ -38,4 +38,4 @@ color14                  #6fbebb
 
 # White
 color7                   #b5bac7
-color15                  #3e4452
+color15                  #6e738e

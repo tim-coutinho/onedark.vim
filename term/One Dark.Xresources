@@ -5,11 +5,11 @@
 
 ! black
 *.color0:       #5C6370
-*.color8:       #4B5263
+*.color8:       #828dA4
 
 ! red
 *.color1:       #DC777F
-*.color9:       #BE5046
+*.color9:       #BE5A4C
 
 ! green
 *.color2:       #A6CA80
@@ -17,7 +17,7 @@
 
 ! yellow
 *.color3:       #E5C881
-*.color11:      #D19A66
+*.color11:      #D2A46C
 
 ! blue
 *.color4:       #78B8F4
@@ -33,5 +33,5 @@
 
 ! white
 *.color7:       #B5BAC7
-*.color15:      #3E4452
+*.color15:      #6E738E
 

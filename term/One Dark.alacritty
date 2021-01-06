@@ -23,12 +23,12 @@ colors:
 
   # Bright colors
   bright:
-    black:   '0x4b5263'
+    black:   '0x828da4'
     red:     '0xbe5046'
     green:   '0xa6ca80'
-    yellow:  '0xd19a66'
+    yellow:  '0xd2a46c'
     blue:    '0x78b8f4'
     magenta: '0xc883e4'
     cyan:    '0x6fbebb'
-    white:   '0x3e4452'
+    white:   '0x6e738e'
 
